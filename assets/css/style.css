@@ -1,0 +1,11 @@
+.col-sm-8 {
+    background: navy;
+}
+.jumbotron {
+    background: navy;
+    text-align: center;
+}
+.display-4 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
